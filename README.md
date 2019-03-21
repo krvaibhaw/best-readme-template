@@ -25,7 +25,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/krvaibhaw/a"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/krvaibhaw/best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/krvaibhaw/a/issues">Report Bug</a>
