@@ -28,8 +28,8 @@
     <a href="https://github.com/krvaibhaw/best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/krvaibhaw/a/issues">Report Bug</a>
+    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/krvaibhaw/a/issues">Request Feature</a>
+    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Request Feature</a>
   </p>
 </p>
