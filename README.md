@@ -16,7 +16,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/krvaibhaw/a">
+  <a href="https://github.com/krvaibhaw/best-readme-template">
     <img src="preview/logo.png" alt="Logo" width="80" height="80">
   </a>
 
