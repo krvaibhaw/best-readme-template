@@ -61,3 +61,13 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+
+## About The Project
+
+[![Product Name Screen Shot](preview/preview.png)](https://example.com)
+
+A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file. There are many great README templates available on GitHub, but I think that this README template is so amazing that it'll be the last one you ever need -- I think this is it.
+
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. I hope this reource is helpful for you in the process of building an ultimate README page for your project.
