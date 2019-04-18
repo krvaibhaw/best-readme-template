@@ -75,3 +75,20 @@ Here's why:
 * You should element DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. I hope this reource is helpful for you in the process of building an ultimate README page for your project.
+
+
+<!-- LIVE DEMO -->
+
+## Live Demo
+
+This section should list websites or platform links which live demonstrate the your project built. Leave any add-ons/plugins for the acknowledgements section.
+
+[Live Demo Link](https://example.com)
+
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
