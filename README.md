@@ -148,7 +148,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 4. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
-'''
+``
 
 <!-- CONTRIBUTING -->
 
