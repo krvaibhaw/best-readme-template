@@ -171,3 +171,11 @@ Contributions are what make the open source community such an amazing place to b
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Font Awesome](https://fontawesome.com)
