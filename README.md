@@ -178,4 +178,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgements
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
 * [Font Awesome](https://fontawesome.com)
