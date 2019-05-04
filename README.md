@@ -186,4 +186,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 ## License
 
-Distributed under the MIT License. See for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
