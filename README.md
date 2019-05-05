@@ -7,16 +7,23 @@
 
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/issues/krvaibhaw/best-readme-template)
-![](https://img.shields.io/github/stars/krvaibhaw/best-readme-template)
+![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
+![](https://img.shields.io/github/forks/krvaibhaw/blockchain)
+![](https://img.shields.io/github/contributors/krvaibhaw/blockchain)
+![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
+![](https://img.shields.io/github/stars/krvaibhaw/blockchain)
 
+![](https://img.shields.io/badge/Contributions-Accepting-pink)
+![](https://img.shields.io/github/license/krvaibhaw/blockchain)
 [![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.paypal.com/paypalme/krvaibhaw/100)
 
 <br>
 
+
+
 <br />
 <p align="center">
-  <a href="https://github.com/krvaibhaw/best-readme-template">
+  <a href="https://github.com/krvaibhaw/a">
     <img src="preview/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -25,14 +32,16 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/krvaibhaw/best-readme-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/krvaibhaw/a"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Report Bug</a>
+    <a href="https://github.com/krvaibhaw/a/issues">Report Bug</a>
     ·
-    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Request Feature</a>
+    <a href="https://github.com/krvaibhaw/a/issues">Request Feature</a>
   </p>
 </p>
+
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -63,6 +72,9 @@
 </details>
 
 
+
+<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot](preview/preview.png)](https://example.com)
@@ -75,6 +87,21 @@ Here's why:
 * You should element DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. I hope this reource is helpful for you in the process of building an ultimate README page for your project.
+
+
+### Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Mention details about :
+
+- Major languages
+- Frameworks
+- Technologies used
+
+Here are a few examples.
+
+* [Bootstrap](https://getbootstrap.com)
+* [JQuery](https://jquery.com)
+* [Laravel](https://laravel.com)
 
 
 <!-- LIVE DEMO -->
@@ -93,46 +120,13 @@ This section should list websites or platform links which live demonstrate the y
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Mention details about :
-
-- Major languages
-- Frameworks
-- Technologies used
-
-Here are a few examples.
-
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * requirements
   ```sh
   npm install npm@latest -g
-```
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
-You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+  ```
 
 ### Installation
 
@@ -148,7 +142,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 4. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
-````
+   ```
+
+
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. 
+You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+
+
 
 <!-- CONTRIBUTING -->
 
@@ -163,6 +178,13 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 
 <!-- CONTACT -->
 
@@ -171,6 +193,7 @@ Contributions are what make the open source community such an amazing place to b
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -182,8 +205,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [Font Awesome](https://fontawesome.com)
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
