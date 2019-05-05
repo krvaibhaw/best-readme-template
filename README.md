@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/forks/krvaibhaw/best-readme-template)
 ![](https://img.shields.io/github/contributors/krvaibhaw/best-readme-template)
 ![](https://img.shields.io/github/issues/krvaibhaw/best-readme-template)
-![](https://img.shields.io/github/stars/krvaibhaw/best-readme-template
+![](https://img.shields.io/github/stars/krvaibhaw/best-readme-template)
 
 ![](https://img.shields.io/badge/Contributions-Accepting-pink)
 ![](https://img.shields.io/github/license/krvaibhaw/best-readme-template)
