@@ -15,6 +15,14 @@
 ![](https://img.shields.io/github/contributors/github_usernane/github_repo)
 ![](https://img.shields.io/github/issues/github_usernane/github_repo)
 ![](https://img.shields.io/github/stars/github_usernane/github_repo)
+
+![](https://img.shields.io/badge/Contributions-Accepting-pink)
+![](https://img.shields.io/github/license/github_usernane/github_repo)
+[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.example.com)
+
+<br>
+
+
 <!-- PROJECT LOGO -->
 
 <br />
@@ -36,8 +44,3 @@
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
-![](https://img.shields.io/badge/Contributions-Accepting-pink)
-![](https://img.shields.io/github/license/github_usernane/github_repo)
-[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.example.com)
-
-<br>
