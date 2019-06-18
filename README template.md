@@ -149,11 +149,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
 
 
 <!-- CONTACT -->
