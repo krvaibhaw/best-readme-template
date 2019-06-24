@@ -1,3 +1,4 @@
+
 <br>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -76,6 +77,7 @@
 </details>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -92,11 +94,13 @@ Here's a blank template to get started:
 * []()
 * []()
 
+
 <!-- LIVE DEMO -->
 
 ## Live Demo
 
 [Live Demo Link](https://example.com)
+
 
 <!-- GETTING STARTED -->
 
@@ -112,7 +116,6 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-
 ### Installation
 
 1. Clone the repo
@@ -123,6 +126,8 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -138,6 +143,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -148,6 +155,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
 
 <!-- LICENSE -->
@@ -171,3 +179,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 * []()
 * []()
+
+
+
