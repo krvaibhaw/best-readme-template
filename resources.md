@@ -8,3 +8,9 @@ While creating your README file it is important for you to focus on :
 * You should element DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. I hope this reource is helpful for you in the process of building you own ultimate README page for your project.
+
+## Articles
+
+- ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
+- ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
