@@ -21,3 +21,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 - [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+- [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
