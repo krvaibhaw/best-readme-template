@@ -29,4 +29,4 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
 
-- [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](https://recordit.co/)
+- [Recordit](https://recordit.co/) - **FRE** - Simple, clean UI, but auto-uploads to [recordit.co](https://recordit.co/)
