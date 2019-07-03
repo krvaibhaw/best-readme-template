@@ -31,3 +31,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 
 - [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](https://recordit.co/)
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
+
+## Get Feedback
+
+- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'. This repository. Submit a PR with your README!
