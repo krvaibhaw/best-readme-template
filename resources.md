@@ -38,3 +38,11 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 
 - [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'. This repository. Submit a PR with your README!
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+
+
+## Examples
+
+- [Martinsos/edlib](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+- [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
+- [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
