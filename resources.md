@@ -70,3 +70,4 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 - [iterative/dvc](https://github.com/iterative/dvc#readme) - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+ 
